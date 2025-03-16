@@ -1,0 +1,1 @@
+Este é o experimento do que já aprendi nas aulas da Rafaella Ballerini com um novo projeto em que aprendo o jogo da forca. Como terei que voltar provavelmente atrás para fazer uma nova alteração, então decidi pôr em prática o que já aprendi.
